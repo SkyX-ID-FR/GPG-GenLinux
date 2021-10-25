@@ -1,7 +1,6 @@
 # GPG-GenLinux
 Ce programme génère des clés GPG avec le language bash, souvent utliser sous Linux...
 
-
 This programm is coding by Skyx [ID FR] **_**
 For CopyRigth, there is ME !
 
