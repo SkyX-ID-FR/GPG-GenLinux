@@ -13,5 +13,5 @@ Give the permission's file and option after run his,so type this :<br>
 For run the script type : ```$ bash main.sh``` or ```./main.sh```.<br>
 The result is in a new file and there are many example in ```LOG.gpg``` file !
   
-This programm is coding by Skyx [ID FR] **_**
+This programm is coding by Skyx [ID FR] **_**<br>
 @+ and enjoy about hacking !
