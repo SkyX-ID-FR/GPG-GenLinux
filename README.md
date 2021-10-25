@@ -10,7 +10,7 @@ This programm and Github Realease is online on 1st October 2021.</i><h5>
 Give the permission's file and option after run his,so type this :<br>
 ```$ chmod +x GPGKeysGen.sh``` or ```$ sudo chmod 777 GPGKeysGen.sh```
   
-For run the script type : ```$ bash main.sh``` or ```./main.sh```
+For run the script type : ```$ bash main.sh``` or ```./main.sh```.<br>
 The result is in a new file and there are many example in ```LOG.gpg``` file !
   
 This programm is coding by Skyx [ID FR] **_**
