@@ -6,6 +6,10 @@ Her generate 6 or 8 suit of GPG Numbers, and her create a Log file with the resu
 This programm and Github Realease is online on 1st October 2021.</i><h5>
 
   <h1>Installation & Utilisation :</h1>
+
+Download the git's report :<br>
+  ```$ sudo apt-get install git```
+  ```$ git clone https://github.com/SkyxBETA/GPG-GenLinux.git```
   
 Give the permission's file and option after run his,so type this :<br>
 ```$ chmod +x GPGKeysGen.sh``` or ```$ sudo chmod 777 GPGKeysGen.sh```
