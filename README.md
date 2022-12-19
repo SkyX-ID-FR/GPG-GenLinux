@@ -1,21 +1,20 @@
 # GPG-GenLinux 🔒
 
-<h5><i>This code is on bash, integration for generate GPG-Keys on Linux Distribution !
-Her generate 6 or 8 suit of GPG Numbers, and her create a Log file with the result inside of them..
+<h5><i>Ce code est sur bash, intégration pour générer des GPG-Keys sur Linux Distribution !
+Elle génère 6 ou 8 combinaisons de numéros GPG, et elle crée un fichier journal avec le résultat à l'intérieur.
 
-This programm and Github Realease is online on 1st October 2021.</i><h5>
+Ce programme et la dernière version sur Github sont en ligne le 1er octobre 2021.</i><h5>
 
   <h1>Installation & Utilisation :</h1>
 
-Download the git's report :<br>
+Clone le repos Github : <br>
   ```$ sudo apt-get install git```<br>
   ```$ git clone https://github.com/SkyxBETA/GPG-GenLinux.git```
   
-Give the permission's file and option after run his,so type this :<br>
+Donner les droits d'autorisations aux fichiers : <br>
 ```$ chmod +x GPGKeysGen.sh``` or ```$ sudo chmod 777 GPGKeysGen.sh```
   
-For run the script type : ```$ bash main.sh``` or ```./main.sh```.<br>
-The result is in a new file and there are many example in ```LOG.gpg``` file !
-  
-This programm is coding by Skyx [ID FR] **_**<br>
+Pour lancer le script, tapez : ```$ bash main.sh``` or ```./main.sh```.<br>
+Et le résultats ainsi que de nombreux exemples sont disponibles dans le fichier ```LOG.gpg``` !
+
 @+ and enjoy about hacking !
