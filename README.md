@@ -1,9 +1,5 @@
 # GPG-GenLinux 🔒
-
-<h5>Ce code est sur bash, intégration pour générer des GPG-Keys sur Linux Distribution !
-Elle génère 6 ou 8 combinaisons de numéros GPG, et elle crée un fichier journal avec le résultat à l'intérieur.
-
-Ce programme et la dernière version sur Github sont en ligne le 1er octobre 2021.<h5>
+<p>Ce code est sur bash, intégration pour générer des GPG-Keys sous n'importe quelle distribution Linux ! Elle génère 6 ou 8 combinaisons de numéros GPG, et elle crée un fichier journal avec le résultat à l'intérieur. Ce programme et la dernière version sur Github sont en ligne le 1er octobre 2021.<p>
 
   <h1>Installation & Utilisation :</h1>
 
